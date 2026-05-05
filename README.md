@@ -1,4 +1,4 @@
-# 📊 iFood CRM Data Analyst — Segmentação Inteligente e Análise de Resposta a Campanhas Promocionais
+# 📊 iFood Data Analysis — Segmentação Inteligente e Análise de Resposta a Campanhas Promocionais
 
 > Case adaptado pela FNAT (Fundação de Negócios, Analytics e Tecnologia) a partir de um processo seletivo real do iFood, com foco em análise inferencial e experimental de campanhas de marketing.
 
