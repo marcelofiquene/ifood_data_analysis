@@ -102,7 +102,7 @@ A base de dados contém informações de **2.205 clientes** com **40 variáveis*
 **Metodologia:** população infinita com ajuste de correção para população finita.
 
 ```
-n₀ = Z² · p · q / e²       (população infinita)
+n₀ = 1 / e²       (população infinita)
 n  = n₀ · N / (n₀ + N − 1) (ajuste para população finita)
 ```
 
