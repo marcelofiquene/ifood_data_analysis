@@ -28,7 +28,7 @@ Analisar os dados de campanhas usando técnicas de **teste A/B**, **cálculo de 
 ifood-crm-analyst/
 │
 ├── README.md
-├── ifood_data_analysis.xlsx      # Análise completa em Excel
+├── ifood_data_analysis.xlsx   # Análise completa em Excel
 ├── CAPA                      # Apresentação do projeto
 ├── ifood_df                  # Base de dados (2.205 clientes, 40 variáveis)
 ├── Cálculo Tamanho Amostra   # Metodologia e resultado do n amostral
@@ -162,7 +162,7 @@ Diferença observada: **+0,48 pp** favorável ao Grupo B.
 
 **Conclusão:** a diferença de 0,48 pp entre as campanhas **não é estatisticamente significativa** (p = 0,75 >> α = 0,05). Os intervalos de confiança dos dois grupos se sobrepõem amplamente, confirmando que a diferença pode ser ruído estatístico.
 
-> **Implicação de negócio:** não há evidências suficientes para afirmar que uma campanha é superior à outra. Recomenda-se nova rodada de testes com maior poder estatístico antes de escalar qualquer das abordagens.
+> **Implicação de negócio:** não há evidências suficientes para afirmar que uma campanha é superior à outra.
 
 ---
 
